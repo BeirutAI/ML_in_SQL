@@ -15,7 +15,7 @@ Happy coding 💻 <br />
 Live Love AI 😍 <br />
 
  # Instructors
-This workshop was prepared by [Obeida ElJundi](https://www.linkedin.com/in/obeidaeljundi/) & [Alaa Maarouf](https://www.linkedin.com/in/alaa-maarouf/) and presented by [Samer Salameh](https://www.linkedin.com/in/samer-salameh-74a900124/).
+The Intro2DS notebook was prepared by [Obeida ElJundi](https://www.linkedin.com/in/obeidaeljundi/) & [Alaa Maarouf](https://www.linkedin.com/in/alaa-maarouf/) and presented by [Samer Salameh](https://www.linkedin.com/in/samer-salameh-74a900124/).
 
 
 Part II: Intro to Python in SQL

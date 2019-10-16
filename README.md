@@ -1,4 +1,4 @@
-# Fully Scalable ML in SQL with Python - HR Analytics Employee Turnover
+# Fully Scalable ML in SQL with Python
 
 Part I: Intro to Data Science
 ---

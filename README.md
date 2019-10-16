@@ -4,8 +4,7 @@ Part I: Intro to Data Science
 ---
 Materials (slides &amp; code) for Intro to Data Science workshop given at several Lebanese universities
 
-Presentation can be found here: https://drive.google.com/file/d/17cRYBWFcA-CWQH3FpzK-p2zHKpaodxI8/view?usp=sharing
-<!-- https://drive.google.com/file/d/1ZBnrrLYKggXD86yF2sG6KQZKNnY-74zJ/view?usp=sharing -->
+Presentation can be found here: <Need Presentation Link>
 
 Code (with blanks) on Google Colab can be found here:
 https://colab.research.google.com/drive/1qxeP16gZAi9TarFoX7F8Y92yjsCMALmU

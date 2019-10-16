@@ -6,9 +6,7 @@ Materials (slides &amp; code)
 
 Presentation can be found here: <Need Presentation Link>
 
-
-
-Part II: Intro to Python in SQL
+Part II: Use case HR Analytics Employee Turnover
 ---
 
 Code (with blanks) on Google Colab can be found here:
@@ -21,7 +19,6 @@ Live Love AI 😍 <br />
 
  # Instructors
 The HR Employee Turnover notebook was prepared and presented by [Samer Salameh](https://www.linkedin.com/in/samer-salameh-74a900124/).
-
 
 Part III: Intro to Machine Learning with Python in SQL
 ---

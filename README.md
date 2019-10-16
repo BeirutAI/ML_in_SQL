@@ -1,4 +1,4 @@
-# ML In SQLHR Analytics Employee Turnover
+# ML In SQL  - HR Analytics Employee Turnover
 
 Part I: Intro to Data Science
 ---

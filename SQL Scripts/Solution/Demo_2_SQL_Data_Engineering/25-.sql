@@ -1,1 +1,0 @@
---Its now time for machine learning in SQL

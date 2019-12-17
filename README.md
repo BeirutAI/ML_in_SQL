@@ -11,6 +11,8 @@ Part II: Use case HR Analytics Employee Turnover
 
 Code (with blanks) on Google Colab can be found here:
 <br />
+https://colab.research.google.com/drive/12peMTmGAqF-c-wJpYfhCTWir6oSqc2xT#scrollTo=_dzTDTWNrh0d
+<br />
 To edit the code, click **File** then **Save a copy in Drive…** <br />
 <br />
 Happy coding 💻 <br />

@@ -9,12 +9,8 @@ Presentation can be found here: <Need Presentation Link>
 Part II: Use case HR Analytics Employee Turnover
 ---
 
-Code (with blanks) on Google Colab can be found here:
-<br />
-https://colab.research.google.com/drive/12peMTmGAqF-c-wJpYfhCTWir6oSqc2xT#scrollTo=_dzTDTWNrh0d
-<br />
-To edit the code, click **File** then **Save a copy in Drive…** <br />
-<br />
+Code (with blanks) on Google Colab can be found under notebooks 
+
 Happy coding 💻 <br />
 Live Love AI 😍 <br />
 
@@ -23,6 +19,7 @@ The HR Employee Turnover notebook was prepared and presented by [Samer Salameh](
 
 Part III: Intro to Machine Learning with Python in SQL
 ---
+download SQL Scripts.zip
 
 Part IV: Quick Overview of .NET for an ML in SQL GUI
 ---

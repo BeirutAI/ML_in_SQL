@@ -23,3 +23,5 @@ download SQL Scripts.zip
 
 Part IV: Quick Overview of .NET for an ML in SQL GUI
 ---
+<br/>
+FaceDetection.rar
